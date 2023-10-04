@@ -11,7 +11,7 @@
         <?php $this->load->view('_partials/navbar.php');
         ?>
         <div class="isian">
-            <h1 style="text-align: center;">Perpustakaan UNDIP</h1>
+            <h1 style="text-align: center;">Selamat Datang di Perpustakaan UNDIP</h1>
         </div>
         <?php $this->load->view('_partials/footer.php'); ?>
     </div>
