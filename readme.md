@@ -24,5 +24,5 @@
 **********
 1. To use this file first you create a database with the name "tugasgitmpm"
 ![image](https://github.com/hafizhb/tugasgitmpm/assets/99695296/08ff0fd4-a448-4ac9-afa2-55c304e84c0f)
-2. After that import the table file ("book.sql) to the database
+2. After that import the table file ("buku.sql) to the database
 ![image](https://github.com/hafizhb/tugasgitmpm/assets/99695296/74a5d25c-bc48-476b-b2a0-20098cfb7f99)
